@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb

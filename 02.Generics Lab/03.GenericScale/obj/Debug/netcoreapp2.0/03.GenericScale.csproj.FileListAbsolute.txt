@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\bin\Debug\netcoreapp2.0\03.GenericScale.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\bin\Debug\netcoreapp2.0\03.GenericScale.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\bin\Debug\netcoreapp2.0\03.GenericScale.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\bin\Debug\netcoreapp2.0\03.GenericScale.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\bin\Debug\netcoreapp2.0\03.GenericScale.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\obj\Debug\netcoreapp2.0\03.GenericScale.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\obj\Debug\netcoreapp2.0\03.GenericScale.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\obj\Debug\netcoreapp2.0\03.GenericScale.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\obj\Debug\netcoreapp2.0\03.GenericScale.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Lab\Generics\03.GenericScale\obj\Debug\netcoreapp2.0\03.GenericScale.pdb

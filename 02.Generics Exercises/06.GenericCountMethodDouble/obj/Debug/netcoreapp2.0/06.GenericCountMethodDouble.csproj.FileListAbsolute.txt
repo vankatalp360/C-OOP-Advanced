@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.pdb

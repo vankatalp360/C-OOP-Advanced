@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.pdb

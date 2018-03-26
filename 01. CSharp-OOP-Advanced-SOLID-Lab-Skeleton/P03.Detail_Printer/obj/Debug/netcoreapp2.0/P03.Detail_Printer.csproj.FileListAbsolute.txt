@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.pdb

@@ -1,0 +1,10 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.pdb

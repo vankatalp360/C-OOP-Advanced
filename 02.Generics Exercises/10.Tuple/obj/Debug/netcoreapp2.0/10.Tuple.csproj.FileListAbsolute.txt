@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.pdb

@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\bin\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\03.GenericSwapMethodStrings\obj\Debug\netcoreapp2.0\03.GenericSwapMethodStrings.csprojResolveAssemblyReference.cache

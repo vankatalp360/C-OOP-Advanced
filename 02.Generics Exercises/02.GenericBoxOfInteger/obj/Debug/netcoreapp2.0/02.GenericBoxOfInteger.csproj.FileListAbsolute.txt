@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.0\02.GenericBoxOfInteger.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.0\02.GenericBoxOfInteger.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.0\02.GenericBoxOfInteger.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.0\02.GenericBoxOfInteger.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.0\02.GenericBoxOfInteger.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.0\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.0\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.0\02.GenericBoxOfInteger.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.0\02.GenericBoxOfInteger.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.0\02.GenericBoxOfInteger.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.0\02.GenericBoxOfInteger.csprojResolveAssemblyReference.cache

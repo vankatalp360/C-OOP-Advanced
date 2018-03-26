@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\bin\Debug\netcoreapp2.0\01.Loger.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\bin\Debug\netcoreapp2.0\01.Loger.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\bin\Debug\netcoreapp2.0\01.Loger.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\bin\Debug\netcoreapp2.0\01.Loger.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\bin\Debug\netcoreapp2.0\01.Loger.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\obj\Debug\netcoreapp2.0\01.Loger.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\obj\Debug\netcoreapp2.0\01.Loger.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\obj\Debug\netcoreapp2.0\01.Loger.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\obj\Debug\netcoreapp2.0\01.Loger.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\obj\Debug\netcoreapp2.0\01.Loger.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\01. Exercise SOLID\01.Loger\obj\Debug\netcoreapp2.0\01.Loger.pdb

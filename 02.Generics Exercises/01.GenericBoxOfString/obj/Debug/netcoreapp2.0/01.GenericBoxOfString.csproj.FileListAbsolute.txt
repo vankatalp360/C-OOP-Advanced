@@ -1,0 +1,11 @@
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.deps.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.runtimeconfig.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.runtimeconfig.dev.json
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.AssemblyInfo.cs
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.dll
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.pdb
+D:\Users\Asus\Desktop\Проекти\C-OOP-Advanced\02.Generics Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.csprojResolveAssemblyReference.cache
